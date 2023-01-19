@@ -1,0 +1,10 @@
+###occupancy_matrix consists of a series of scripts written by Xiyu Dong bnu.xiyudong@gmail.com and Kai Sheng. They consist of the following:
+
+Occ_Analysis.py - a python script used to calculate volumes occupied as a function of the threshold chose and draw the matrix of occupancy values.
+
+Occ_Binarization.py - a python script used to preliminarily binarize the occupancy values calculated from Occ_Analysis.py
+
+Projection.py - a python script used to further determine the binarization threshold of some tricky structural elements.
+
+pathway_maps_with_pabel/ - mrc files of aligned EM density maps of iSAT LSU intermediate structures used for occupancy analysis.
+
